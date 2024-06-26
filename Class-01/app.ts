@@ -68,7 +68,16 @@ console.log(`Hello Typescript`);
 // Any is wrong method never use any in ts 
 
 
+// function sum(num1:number , num2:number):number {
+//     return num1 + num2
+// }
+// console.log(sum(20 , 30));
 
+// function greetUser(username:string , age:number):void {
+//     console.log(`hello ${username} with age ${age}`);
+    
+// }
+// greetUser(`hamza` , 18)
 
 
 
