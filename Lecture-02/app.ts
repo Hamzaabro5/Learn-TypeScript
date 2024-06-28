@@ -6,6 +6,7 @@ console.log(`Hello Ts`);
 // Interference
 // Interference vs Type Aliases
 // Enums
+// Generic
 // 
 
 
@@ -114,3 +115,35 @@ console.log(`Hello Ts`);
 
 
 
+
+
+
+
+
+
+
+
+// Enums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Generic
