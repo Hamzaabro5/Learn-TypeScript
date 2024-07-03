@@ -147,3 +147,26 @@ console.log(`Hello Ts`);
 
 
 // Generic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Tuples
+
+let ourTuples = [number , boolean , string];
+
+ourTuples = [12 , true , `hamza`];
