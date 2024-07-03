@@ -7,7 +7,8 @@ console.log(`Hello Ts`);
 // Interference vs Type Aliases
 // Enums
 // Generic
-// 
+// Tuples
+// Type Guard
 
 
 
@@ -165,8 +166,33 @@ console.log(`Hello Ts`);
 
 
 
-// Tuples
+// // Tuples
 
-let ourTuples = [number , boolean , string];
+// type fruits = [string , number];
+// let fruit: fruits = [`mango` , 2]
 
-ourTuples = [12 , true , `hamza`];
+// let ourTuples : [number , boolean , string];
+// ourTuples = [12 , true , `hamza`];
+
+
+
+
+
+
+
+
+
+
+
+// // Type Guard
+
+// function hello(str) {
+//     if (typeof (str) == `string`) {
+//         console.log(str.toLowerCase());
+        
+//     }
+// }
+
+// hello()
+// hello(`ishdgdhag`)
+// hello(12333)
